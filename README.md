@@ -1,10 +1,28 @@
-## Olá, Meu Nome é João Victor 👨🏻‍💻
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=1E3A8A&section=header"/>
+
+## João Victor Martins👨🏻‍💻
+
+<div align="center">
+  
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Victor Martins</b>
+  </samp>
+</div>
 
 **`Desenvolvedor FrontEnd`**
 
 Me chamo Victor Martins, Tenho 19 anos e sou do Pará Marabá. Finalzei meu Ensino Medio e estou Cursando Programação FullStack no Grau Tecnico, constantemente buscando evoluir minhas habilidades como desenvolvedor.
 Comecei minha jornada profissional como Operador de Caixa, onde desenvolvi responsabilidade, atenção aos detalhes e capacidade de resolver problemas rapidamente.
 Hoje aplico essa mesma determinação no mundo da programação e do desenvolvimento de jogos.
+
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=3B82F6&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Developer;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -51,7 +69,10 @@ Hoje aplico essa mesma determinação no mundo da programação e do desenvolvim
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=detonextsgames&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+  
 </p>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=12,24&section=footer"/>
